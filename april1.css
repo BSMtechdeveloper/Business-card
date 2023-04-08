@@ -1,0 +1,134 @@
+ .cont1{
+ 	margin:0;
+ }
+ .cont2{
+ 	display:block;
+ 	background:linear-gradient(to left,#620185, #46ff02);
+ }
+ .navigationsBtn{
+ 	display:inline;
+     
+
+ }
+#hmPage{
+	display:inline;
+	color:white;
+	margin-left:10px;
+    margin-top:5%;
+    padding:1%;
+    width:10%;
+    border:2px solid #620185 ;
+    border-radius:10px;
+    background-color:#620185;
+
+}
+#lgPage{
+	display:inline;
+	margin-left:60px;
+	margin-right:auto;
+	color:white;
+    padding:1%;
+    width:10%;
+    border:2px solid #620185;
+    background-color:#620185;
+    border-radius:10px;
+}
+#mnBox{
+	display:inline;
+	margin-left:60em;
+	color:#222222;
+    padding:1%;
+    width:10%;
+    border:2px solid #46ff02 ;
+    background-color:#46ff02;
+    border-radius:10px;
+
+}
+.myPresent{
+	display:block;
+	text-align:center;
+	font-size:100px;
+	font-family:Neo Sans Std;
+	font-weight:normal;
+    font-style:italic;
+	margin-top:1%;
+    }
+    #one{
+    	color:#620185;
+    }
+    #two{
+    	color:#46ff02;
+    }
+    .mainC{
+    	display:grid;
+    	grid-template-columns:1fr 1fr;
+    	grid-column:span 1;
+    	grid-column-gap:0px;
+    }
+    .sub1{
+    	display:inline;
+    }
+    #myPhoto{
+    	display:inline;
+    	width:400px;
+    	margin-left:20px;
+    	border-style:#bb02ff double;
+    	border-radius:5%;
+    	border-width:2%;
+    	border-color:#bb02ff;
+    	margin-top:2%;
+    }
+    .sub2{
+    	display:inline;
+        padding:1%;
+    	margin-top:2%;
+        margin-right:10%;
+    	background:linear-gradient(to right,#620185,#46ff02);
+        border:2px solid;
+        border-radius:20px;
+        border-color:white;
+    }
+    .p1{
+    	display:inline;
+    }
+    h2{
+        margin-left:35% ;
+        color:white;
+    }
+    ul{
+        margin-left:35%;
+        color:white;
+    }
+    .maindescription{
+        color:white;
+        font-family:calibri;
+        margin-left:35%;
+    }
+    #name{
+    	display:block;
+    	margin-top:2%;
+        margin-left:35%;
+    }
+    #mailBox{
+    	display:block;
+    	margin-top:2%;
+        margin-left:35%;
+    }
+    #yPassword{
+    	margin-top:2%;
+        margin-left:35%;
+    }
+    #Btn{
+    	color:white;
+    	background:#620185;
+    	border-radius:5px;
+    	border-color:#620185;
+    	padding:1%;
+    	width:10em;
+    	border-style:solid;
+    }
+    #pgFooter{
+    	text-align:center;
+    	background:linear-gradient(to right,#46ff02,#620185);
+        color:white;
+    }
